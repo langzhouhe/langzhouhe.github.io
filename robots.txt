@@ -1,1 +1,4 @@
+User-agent: Googlebot
+Disallow:
+
 Sitemap: https://langzhouhe.github.io/sitemap.xml
