@@ -49,7 +49,7 @@ My research interests primarily lie in machine learning, LLms and Agentic RL. My
 
 [SDMG: Smoothing Your Diffusion Models for Powerful Graph Representation Learning](https://openreview.net/pdf?id=lNyaQIJ5Z7)
 
-Junyou Zhu\*, **Langzhou He**, Chao Gao, Dongpeng Hou, Zhen Su, Philip S. Yu, Juergen Kurths, Frank Hellmann
+Junyou Zhu, **Langzhou He**, Chao Gao, Dongpeng Hou, Zhen Su, Philip S. Yu, Juergen Kurths, Frank Hellmann
 
 **ICML 2025** \| [Paper](https://openreview.net/pdf?id=lNyaQIJ5Z7)
 </div>
@@ -68,11 +68,9 @@ Junyou Zhu, Christian Nauck, Michael Lindner, **Langzhou He**, Philip Yu, Klaus-
 
 # Honors
 - *2024*: Outstanding Graduates
-- *2023*: Innovation and Entrepreneurship Award
-- *2023*: First-tier Scholarship
+- *2023*: First-tier Scholarship, Innovation and Entrepreneurship Award
 - *2022*: Academic Science Award
-- *2021*: Merit Student of University
-- *2021*: Second-tier Scholarship
+- *2021*: Merit Student of University, Second-tier Scholarship
 
 # Services
 - **Conference Reviewer**:
