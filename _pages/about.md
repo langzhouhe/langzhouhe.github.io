@@ -19,39 +19,48 @@ redirect_from:
 
 # About Me
 
-Welcome to my page! I'm Langzhou He, a first-year Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc-uic.github.io/index.html) at the [University of Illinois Chicago](https://www.uic.edu) under the supervision of Prof. [Philip S. Yu](https://www.cs.uic.edu/~psyu/). I obtained my B.S. degree in Computer Science with honors from Southwest University, where I worked closely with Prof. [Li Tao](http://cis.swu.edu.cn/info/1014/1208.htm) and Prof. [Chao Gao](https://iopen.nwpu.edu.cn/info/1015/1362.htm).
+Hi! I'm Langzhou He, a second-year Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc-uic.github.io/index.html) at the [University of Illinois Chicago](https://www.uic.edu). I'm fortunate to be advised by Prof. [Philip S. Yu](https://www.cs.uic.edu/~psyu/). I obtained my B.S. degree in Computer Science with honors from Southwest University, where I worked closely with Prof. [Li Tao](http://cis.swu.edu.cn/info/1014/1208.htm) and Prof. [Chao Gao](https://iopen.nwpu.edu.cn/info/1015/1362.htm).
 
-My research interests primarily lie in machine learning and data mining, with a specific focus on graph machine learning, foundation models, and their practical applications. I am currently committed to advancing generative AI for relational data, particularly in domains such as finance and scientific research.
+My research interests primarily lie in machine learning, LLms and Agentic RL. My current research focuses on the fundamental challenges of generative AI, specifically addressing model hallucinations and optimizing inference efficiency. By developing principled frameworks for relational data, I strive to create robust and efficient autonomous agents for high-stakes scientific research.
 
 
 # News
-- *08/2024*: Accept the invitation as a reviewer @ ICLR 2025.
-- *08/2024*: Start my Ph.D. journey at the [University of Illinois Chicago](https://www.uic.edu)!
-- *05/2024*: Accept the invitation as a reviewer @ NeurIPS 2024.
-- *01/2024*: I will be joining [BDSC Lab](https://bdsc-uic.github.io/index.html) at the [University of Illinois Chicago](https://www.uic.edu) to start my Ph.D. journey!
-- *12/2023*: Accept the invitation as a reviewer @ IEEE Transactions on Neural Networks and Learning Systems.
+- *12/2025*: One benchmark paper [RECODE-H](https://arxiv.org/abs/2510.06186) has been accepted to ICLR 2026. Congrats to all collaborators!
+- *10/2025*: One paper [NSGNN](https://ieeexplore.ieee.org/abstract/document/11214469) has been accepted to IEEE TKDE. Congrats to all collaborators!
+- *9/2025*: My paper "[Can Molecular Foundation Models Know What They Don't Know?](https://arxiv.org/abs/2509.25509)" is online. Check this out!
+- *05/2025*: One paper [SDMG](https://openreview.net/pdf?id=lNyaQIJ5Z7) has been accepted to ICML 2025. Congrats to all collaborators!
 
-# Publications
+# Selected Publications
 
-1. **Integrating Global Features into Neural Collaborative Filtering**
-   **Langzhou He**, Songxin Wang, Jiaxin Wang, [Chao Gao](https://iopen.nwpu.edu.cn/info/1015/3956.htm), [Li Tao](http://cis.swu.edu.cn/info/1014/1208.htm)
-   *Knowledge Science, Engineering and Management (KSEM)*, 2022
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
-2. **Dynamic community detection over evolving networks based on the optimized deep graph infomax**
-   Hao Liu, **Langzhou He**, Fan Zhang, [Zhen Wang](https://iopen.nwpu.edu.cn/info/1015/1351.htm), [Chao Gao](https://iopen.nwpu.edu.cn/info/1015/3956.htm), [Li Tao](http://cis.swu.edu.cn/info/1014/1208.htm)
-   *CHAOS*, 2022
+[Can Molecular Foundation Models Know What They Don't Know? A Simple Remedy with Preference Optimization](https://arxiv.org/abs/2509.25509)
 
-3. **Identifying Multiple Influential Nodes for Complex Networks Based on Multi-Agent Deep Reinforcement Learning**
-   Shengzhou Kong, **Langzhou He**, Guilian Zhang, [Li Tao](http://cis.swu.edu.cn/info/1014/1208.htm), [Zili Zhang](https://au.linkedin.com/in/zili-zhang-125a771b)
-   *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2022
+**Langzhou He**, Junyou Zhu, Fangxin Wang, Haoyan Xu, Junhua Liu, Yue Zhao, Philip S. Yu, Qitian Wu
 
-4. **Temporal Link Prediction Based on Node Dynamics**
-   Jiayun Wu, **Langzhou He**, [Tao Jia](http://cis.swu.edu.cn/info/1013/1160.htm), [Li Tao](http://cis.swu.edu.cn/info/1014/1208.htm)
-   *Chaos, Solitons & Fractals*, 2023
+**In Submission** \| [arXiv](https://arxiv.org/abs/2509.25509)
+</div>
+</div>
 
-5. **A Sequential-Path Tree-Based Centrality for Identifying Influential Spreaders In Temporal Networks**
-   [Li Tao](http://cis.swu.edu.cn/info/1014/1208.htm), Shengzhou Kong, **Langzhou He**, Fan Zhang, Xianghua Li, [Tao Jia](http://cis.swu.edu.cn/info/1013/1160.htm), Zhen Han
-   *Chaos, Solitons & Fractals*, 2023
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+[SDMG: Smoothing Your Diffusion Models for Powerful Graph Representation Learning](https://openreview.net/pdf?id=lNyaQIJ5Z7)
+
+Junyou Zhu\*, **Langzhou He**, Chao Gao, Dongpeng Hou, Zhen Su, Philip S. Yu, Juergen Kurths, Frank Hellmann
+
+**ICML 2025** \| [Paper](https://openreview.net/pdf?id=lNyaQIJ5Z7)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+[Network Measure-Enriched GNNs: A New Framework for Power Grid Stability Prediction](https://ieeexplore.ieee.org/abstract/document/11214469)
+
+Junyou Zhu, Christian Nauck, Michael Lindner, **Langzhou He**, Philip Yu, Klaus-Robert Mueller, Jürgen Kurths, Frank Hellmann
+
+**IEEE Transactions on Knowledge and Data Engineering (TKDE)** \| [Paper](https://ieeexplore.ieee.org/abstract/document/11214469)
+</div>
+</div>
 
 # Honors
 - *2024*: Outstanding Graduates
@@ -62,16 +71,23 @@ My research interests primarily lie in machine learning and data mining, with a 
 - *2021*: Second-tier Scholarship
 
 # Services
-- **Journal Reviewer**: IEEE Transactions on Neural Networks and Learning Systems.
-- **Conference Reviewer**: NeurIPS 2024, ICLR 2025.
+- **Conference Reviewer**:
+  - NeurIPS 2024, 2025
+  - ICLR 2024, 2025, 2026, FM-Wild@ICLR 2024
+  - ICML 2025, 2026
+  - PDLM@AAAI 2025
+- **Journal Reviewer**:
+  - IEEE Transactions on Neural Networks and Learning Systems
+  - IEEE Transactions on Knowledge and Data Engineering
 
 # Educations
 - *2024.08 - Present*, Ph.D. in Computer Science, University of Illinois Chicago, Chicago, IL.
 - *2020.09 - 2024.06*, B.S. in Computer Science (with honors), Southwest University, Chongqing, China.
 
 # Misc
-- My Chinese name is **何浪舟**, pronounced as Ho Lang-Chou.
-- I'm passionate about sports, especially football and Formula 1. My favorite teams are Real Madrid and Mercedes-AMG F1 team.
+- My Chinese name is **何浪舟**.
+- Out of research, I'm a huge sports enthusiast with a broad range of interests. 
+- I'm passionate about sports, especially football and Formula 1. I'm a loyal supporter of Real Madrid and Lewis Hamilton. When I’m not cheering for them, you’ll likely find me on the tennis court or hitting the slopes for some skiing.
 - Music is an important part of my life. I like K-pop, my favorite group is [aespa](https://www.aespa-officialus.com). I really enjoy classical music. Check out some of my favorite performances:
   - [Piano Concerto No. 1 in B-Flat Minor, Op. 23 — Evgeny Kissin, Herbert von Karajan & Berlin Philharmonic](https://www.youtube.com/watch?v=2ak5l3y0Bzc)
   - [Piano Concerto No. 1 in E Minor, Op. 11 & No. 2 in F Minor, Op. 21 — Krystian Zimerman & Polish Festival Orchestra](https://www.youtube.com/watch?v=5BLU-CaKIt8&list=PLn2--CWCjouOzEUxcqqklS__38v_Pzu90)
