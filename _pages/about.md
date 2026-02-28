@@ -32,7 +32,8 @@ My research interests primarily lie in machine learning, LLms and Agentic RL. My
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">In Submission</div><img src='images/papers/Molecular.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="margin-left: 0px;" markdown="1">
 
 [Can Molecular Foundation Models Know What They Don't Know? A Simple Remedy with Preference Optimization](https://arxiv.org/abs/2509.25509)
 
@@ -42,7 +43,8 @@ My research interests primarily lie in machine learning, LLms and Agentic RL. My
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">ICML 2025</div><img src='images/papers/SDMG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="margin-left: 0px;" markdown="1">
 
 [SDMG: Smoothing Your Diffusion Models for Powerful Graph Representation Learning](https://openreview.net/pdf?id=lNyaQIJ5Z7)
 
@@ -52,7 +54,8 @@ Junyou Zhu\*, **Langzhou He**, Chao Gao, Dongpeng Hou, Zhen Su, Philip S. Yu, Ju
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">IEEE TKDE</div><img src='images/papers/NSGNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="margin-left: 0px;" markdown="1">
 
 [Network Measure-Enriched GNNs: A New Framework for Power Grid Stability Prediction](https://ieeexplore.ieee.org/abstract/document/11214469)
 
