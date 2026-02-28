@@ -25,7 +25,7 @@ My research interests primarily lie in machine learning, LLms and Agentic RL. My
 
 
 # News
-- *02/2026*: One benchmark paper [ACTOR-CURATOR](https://arxiv.org/pdf/2602.20532) is online. Check this out!
+- *02/2026*: One paper [ACTOR-CURATOR](https://arxiv.org/pdf/2602.20532) is online. Check this out!
 - *12/2025*: One benchmark paper [RECODE-H](https://arxiv.org/abs/2510.06186) has been accepted to ICLR 2026. Congrats to all collaborators!
 - *10/2025*: One paper [NSGNN](https://ieeexplore.ieee.org/abstract/document/11214469) has been accepted to IEEE TKDE. Congrats to all collaborators!
 - *09/2025*: Our paper "[Can Molecular Foundation Models Know What They Don't Know?](https://arxiv.org/abs/2509.25509)" is online. Check this out!
