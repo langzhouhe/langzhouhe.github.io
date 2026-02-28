@@ -84,9 +84,6 @@ Junyou Zhu, Christian Nauck, Michael Lindner, **Langzhou He**, Philip Yu, Klaus-
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE Transactions on Knowledge and Data Engineering
 
-# Educations
-- *2024.08 - Present*, Ph.D. in Computer Science, University of Illinois Chicago, Chicago, IL.
-- *2020.09 - 2024.06*, B.S. in Computer Science (with honors), Southwest University, Chongqing, China.
 
 # Misc
 - My Chinese name is **何浪舟**.
