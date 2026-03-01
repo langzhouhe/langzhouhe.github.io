@@ -51,7 +51,7 @@ My research interests primarily lie in machine learning, LLms and Agentic RL. My
 
 Junyou Zhu, **Langzhou He**, Chao Gao, Dongpeng Hou, Zhen Su, Philip S. Yu, Juergen Kurths, Frank Hellmann
 
-**ICML 2025** \| [Paper](https://openreview.net/pdf?id=lNyaQIJ5Z7)
+**ICML 2025** \| [Paper](https://openreview.net/pdf?id=lNyaQIJ5Z7) \| [Code](https://github.com/JYZHU03/SDMG)
 </div>
 </div>
 
@@ -62,7 +62,7 @@ Junyou Zhu, **Langzhou He**, Chao Gao, Dongpeng Hou, Zhen Su, Philip S. Yu, Juer
 
 Junyou Zhu, Christian Nauck, Michael Lindner, **Langzhou He**, Philip Yu, Klaus-Robert Mueller, Jürgen Kurths, Frank Hellmann
 
-**IEEE Transactions on Knowledge and Data Engineering (TKDE)** \| [Paper](https://ieeexplore.ieee.org/abstract/document/11214469)
+**IEEE Transactions on Knowledge and Data Engineering (TKDE)** \| [Paper](https://ieeexplore.ieee.org/abstract/document/11214469) \| [Code](https://github.com/JYZHU03/NSGNN)
 </div>
 </div>
 
