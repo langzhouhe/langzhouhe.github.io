@@ -34,7 +34,7 @@ My research interests primarily lie in machine learning, LLms and Agentic RL. My
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">In Submission</div><img src='images/papers/ActionBottleneck.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">In Submission</div><img src='images/papers/Action_Bottleneck.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="margin-left: 0px;" markdown="1">
 
 [Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy](https://arxiv.org/abs/2605.14558v1)
