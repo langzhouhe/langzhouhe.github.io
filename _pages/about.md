@@ -86,7 +86,7 @@ Junyou Zhu, Christian Nauck, Michael Lindner, **Langzhou He**, Philip Yu, Klaus-
 
 # Services
 - **Conference Reviewer**:
-  - NeurIPS 2024, 2025
+  - NeurIPS 2024, 2025, 2026
   - ICLR 2024, 2025, 2026, FM-Wild@ICLR 2024
   - ICML 2025, 2026
   - PDLM@AAAI 2025
@@ -99,7 +99,7 @@ Junyou Zhu, Christian Nauck, Michael Lindner, **Langzhou He**, Philip Yu, Klaus-
 - My Chinese name is **何浪舟**.
 - Out of research, I'm a huge sports enthusiast with a broad range of interests. 
 - I'm passionate about sports, especially football and Formula 1. I'm a loyal supporter of Real Madrid and Lewis Hamilton. When I’m not cheering for them, you’ll likely find me on the tennis court or hitting the slopes for some skiing.
-- Music is an important part of my life. I like K-pop, my favorite group is [aespa](https://www.aespa-officialus.com). I really enjoy classical music. Check out some of my favorite performances:
+- Music is an important part of my life. I like K-pop, my favorite group is [aespa](https://aespaofficial.com/). I really enjoy classical music. Check out some of my favorite performances:
   - [Piano Concerto No. 1 in B-Flat Minor, Op. 23 — Evgeny Kissin, Herbert von Karajan & Berlin Philharmonic](https://www.youtube.com/watch?v=2ak5l3y0Bzc)
   - [Piano Concerto No. 1 in E Minor, Op. 11 & No. 2 in F Minor, Op. 21 — Krystian Zimerman & Polish Festival Orchestra](https://www.youtube.com/watch?v=5BLU-CaKIt8&list=PLn2--CWCjouOzEUxcqqklS__38v_Pzu90)
   - [Beethoven: Complete Piano Concertos — Krystian Zimerman, Sir Simon Rattle & London Symphony Orchestra](https://www.youtube.com/watch?v=MlrNjdYnheM&t=4s)
