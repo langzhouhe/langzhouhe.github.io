@@ -27,7 +27,8 @@ My research interests primarily lie in machine learning, LLms and Agentic RL. My
 # News
 - *07/2026*: Our paper [ACTOR-CURATOR](https://arxiv.org/pdf/2602.20532) has been accepted to COLM 2026. Congrats to all collaborators!
 - *06/2026*: I'll be joining the Amazon AGI team as an Applied Scientist Intern in Sunnyvale this September, working on the Nova 2 Sonic model.
-- *04/2026*: Three papers accepted to ACL 2026 (two main conference and one Findings). Congrats to all my impressive collaborators! - *12/2025*: One benchmark paper [RECODE-H](https://arxiv.org/abs/2510.06186) has been accepted to ICLR 2026. Congrats to all collaborators!
+- *04/2026*: Three papers accepted to ACL 2026 (two main conference and one Findings). Congrats to all my impressive collaborators!
+- *12/2025*: One benchmark paper [RECODE-H](https://arxiv.org/abs/2510.06186) has been accepted to ICLR 2026. Congrats to all collaborators!
 - *10/2025*: One paper [NSGNN](https://ieeexplore.ieee.org/abstract/document/11214469) has been accepted to IEEE TKDE. Congrats to all collaborators!
 - *09/2025*: Our paper "[Can Molecular Foundation Models Know What They Don't Know?](https://arxiv.org/abs/2509.25509)" is online. Check this out!
 - *05/2025*: One paper [SDMG](https://openreview.net/pdf?id=lNyaQIJ5Z7) has been accepted to ICML 2025. Congrats to all collaborators!
