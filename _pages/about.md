@@ -25,14 +25,25 @@ My research interests primarily lie in machine learning, LLms and Agentic RL. My
 
 
 # News
-- *04/2026*: Three papers accepted to ACL 2026 (two main conference and one Findings). Congrats to all my impressive collaborators! 
-- *02/2026*: One paper [ACTOR-CURATOR](https://arxiv.org/pdf/2602.20532) is online. Check this out!
-- *12/2025*: One benchmark paper [RECODE-H](https://arxiv.org/abs/2510.06186) has been accepted to ICLR 2026. Congrats to all collaborators!
+- *07/2026*: Our paper [ACTOR-CURATOR](https://arxiv.org/pdf/2602.20532) has been accepted to COLM 2026. Congrats to all collaborators!
+- *06/2026*: I'll be joining the Amazon AGI team as an Applied Scientist Intern in Sunnyvale, working on the Nova 2 Sonic model.
+- *04/2026*: Three papers accepted to ACL 2026 (two main conference and one Findings). Congrats to all my impressive collaborators! - *12/2025*: One benchmark paper [RECODE-H](https://arxiv.org/abs/2510.06186) has been accepted to ICLR 2026. Congrats to all collaborators!
 - *10/2025*: One paper [NSGNN](https://ieeexplore.ieee.org/abstract/document/11214469) has been accepted to IEEE TKDE. Congrats to all collaborators!
 - *09/2025*: Our paper "[Can Molecular Foundation Models Know What They Don't Know?](https://arxiv.org/abs/2509.25509)" is online. Check this out!
 - *05/2025*: One paper [SDMG](https://openreview.net/pdf?id=lNyaQIJ5Z7) has been accepted to ICML 2025. Congrats to all collaborators!
 
 # Selected Publications
+
+<div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">COLM 2026</div><img src='images/papers/Actor_Curator.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="margin-left: 0px;" markdown="1">
+
+[Actor-Curator: Co-adaptive Curriculum Learning via Policy-Improvement Bandits for Scalable RL Post-Training](https://arxiv.org/pdf/2602.20532)
+
+Zhengyao Gu, Jonathan Light, Raul Astudillo, Ziyu Ye, **Langzhou He**, Henry Peng Zou, Wei Cheng, Santiago Paternain, Philip S. Yu, Yisong Yue
+
+**COLM 2026** \| [arXiv](https://arxiv.org/pdf/2602.20532)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">In Submission</div><img src='images/papers/Action_Bottleneck.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="margin-left: 0px;" markdown="1">
